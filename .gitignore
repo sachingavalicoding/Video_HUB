@@ -118,3 +118,6 @@ dist
 .pnp.*
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Node
+
+
+mongodb+srv://sachingavali9470:Sachin@9470@sachin.qjxmskv.mongodb.net/
