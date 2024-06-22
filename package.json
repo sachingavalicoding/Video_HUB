@@ -2,9 +2,10 @@
   "name": "video-hub",
   "version": "1.0.0",
   "description": "full stack web app video-hub",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev":"nodemon src/index.js"
   },
   "keywords": [
     "sachin",
@@ -14,5 +15,8 @@
     "fullstack"
   ],
   "author": "Sachin Gavali",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
